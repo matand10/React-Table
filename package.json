@@ -1,6 +1,6 @@
 {
-  "homepage": "http://matand10.github.io/React-template",
-  "name": "my-app",
+  "homepage": "http://matand10.github.io/React-Table",
+  "name": "React-Table",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
