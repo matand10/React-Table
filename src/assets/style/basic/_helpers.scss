@@ -1,0 +1,54 @@
+// Flex 
+.flex {
+    display: flex;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+// List 
+.clean-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+
+.plus-btn {
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    padding: 8px;
+    border-radius: 50%;
+    transition: .2s;
+
+    &:hover {
+        background-color: #E0E0E0;
+    }
+}
+
+.submit-btn {
+    background-color: #04AA6D;
+    color: #fff;
+    padding: 10px;
+    width: 80%;
+    text-align: center;
+    transition: .2s;
+
+    &:hover {
+        opacity: 0.8;
+    }
+}
+
+.mark {
+    background-color: red;
+}
