@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Table/static/css/main.cbdc934e.css",
+    "main.js": "/React-Table/static/js/main.f2f71d51.js",
+    "index.html": "/React-Table/index.html",
+    "main.cbdc934e.css.map": "/React-Table/static/css/main.cbdc934e.css.map",
+    "main.f2f71d51.js.map": "/React-Table/static/js/main.f2f71d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdc934e.css",
+    "static/js/main.f2f71d51.js"
+  ]
+}
